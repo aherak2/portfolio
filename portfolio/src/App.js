@@ -70,10 +70,10 @@ function App() {
             </div>
 
             <div className="col-lg-3  portfolio-item"  onClick={openPosTabs}>
-                              <img src={pos} className="img" alt="POS aplikacija"/>
+                              <img src={pos} className="img" alt="POS aplication"/>
 
               <div className="portfolio-info">
-                <h4>POS aplikacija</h4>
+                <h4>POS application</h4>
                 <p>
   <strong>Project Description:</strong>
   <ul>
