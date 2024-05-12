@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css'; 
-import adna from './adna.png';
-import parking from './hqdefault.jpg'
-import ayana from './ayana.png'
-import an_an from './an-an.png'
-import pos from './pos.png'
-import javaApp from './images.jpeg'
-import dipl from './logo.png'
+import adna from './img/adna.png';
+import parking from './img/hqdefault.jpg'
+import ayana from './img/ayana.png'
+import an_an from './img/an-an.png'
+import pos from './img/pos.png'
+import javaApp from './img/images.jpeg'
+import dipl from './img/logo.png'
 function App() {
   const openPosTabs = () => {
     window.open('https://github.com/nedimkrupalija/POS-manager-app-tim56.git', '_blank');
